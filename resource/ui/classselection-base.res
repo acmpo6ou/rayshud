@@ -102,9 +102,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override"	"TanLight"
-		"selectedFgColor_override"	"ColorCyan"
+		"selectedFgColor_override"	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -140,9 +140,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override"	"TanLight"
-		"selectedFgColor_override"	"ColorCyan"
+		"selectedFgColor_override"	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -178,9 +178,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -216,9 +216,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -254,9 +254,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -292,9 +292,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -330,9 +330,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -368,9 +368,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -406,9 +406,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -441,9 +441,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -476,9 +476,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -507,9 +507,9 @@
 
 		"fgcolor"					"TanLight"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"ColorGreen"
 		"depressedFgColor_override" "TanLight"
-		"selectedFgColor_override" 	"ColorCyan"
+		"selectedFgColor_override" 	"ColorGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

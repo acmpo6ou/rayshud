@@ -312,7 +312,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "ColorCyan"
+			"fgcolor_override" "ColorGreen"
 		}
 	}
 
@@ -344,7 +344,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "ColorCyan"
+			"fgcolor_override" "ColorGreen"
 		}
 
 		"URLHelpLabel"
@@ -386,7 +386,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "ColorCyan"
+			"fgcolor_override" "ColorGreen"
 		}
 		"URLSearchingLabel"
 		{
@@ -406,7 +406,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "ColorCyan"
+			"fgcolor_override" "ColorGreen"
 		}
 
 		"URLEntry"
