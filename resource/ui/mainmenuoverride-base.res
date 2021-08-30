@@ -618,71 +618,12 @@
 		"armedBgColor_override" 	"25 25 25 148"
 	}
 
-	"GeneralStoreButton"
-	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"GeneralStoreButton"
-		"xpos"			"30"
-		"ypos"			"102"
-		"zpos"			"11"
-		"wide"			"260"
-		"tall"			"18"
-		"visible"		"1"
-		"enabled"		"1"
-		"labeltext"		"#StoreTitle"
-		"command" 		"engine open_store"
-		"font"			"HudFontSmallishBold"
-		"textAlignment"	"west"
-		"textinsetx"	"25"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-
-		"border_default"	""
-		"border_armed"		"MainMenuTabs"
-
-		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorGreen"
-
-		"defaultBgColor_override" 	"Transparent"
-		"armedBgColor_override" 	"25 25 25 148"
-	}
-
-	"SteamWorkshopButton"
-	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"SteamWorkshopButton"
-		"xpos"			"30"
-		"ypos"			"122"
-		"zpos"			"11"
-		"wide"			"260"
-		"tall"			"18"
-		"visible"		"1"
-		"enabled"		"1"
-		"AllCaps"		"1"
-		"labeltext"		"#MMenu_SteamWorkshop"
-		"command"		"engine OpenSteamWorkshopDialog"
-		"font"			"HudFontSmallishBold"
-		"textAlignment"	"west"
-		"textinsetx"	"25"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-
-		"border_default"	""
-		"border_armed"		"MainMenuTabs"
-
-		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorGreen"
-
-		"defaultBgColor_override" 	"Transparent"
-		"armedBgColor_override" 	"25 25 25 148"
-	}
-
 	"SettingButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SettingButton"
 		"xpos"			"30"
-		"ypos"			"142"
+		"ypos"			"102"
 		"zpos"			"11"
 		"wide"			"260"
 		"tall"			"18"
@@ -712,7 +653,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"AdvSettingsButton"
 		"xpos"			"30"
-		"ypos"			"162"
+		"ypos"			"122"
 		"zpos"			"11"
 		"wide"			"260"
 		"tall"			"18"
@@ -737,35 +678,6 @@
 		"armedBgColor_override" 	"25 25 25 148"
 	}
 
-	"MinmodeToggle"
-	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"MinmodeToggle"
-		"xpos"			"30"
-		"ypos"			"182"
-		"zpos"			"11"
-		"wide"			"260"
-		"tall"			"18"
-		"visible"		"1"
-		"enabled"		"1"
-		"AllCaps"		"1"
-		"labeltext"		"MINMODE TOGGLE"
-		"command"		"engine incrementvar cl_hud_minmode 0 1 1"
-		"font"			"HudFontSmallishBold"
-		"textAlignment"	"west"
-		"textinsetx"	"25"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-
-		"border_default"	""
-		"border_armed"		"MainMenuTabs"
-
-		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorGreen"
-
-		"defaultBgColor_override" 	"Transparent"
-		"armedBgColor_override" 	"25 25 25 148"
-	}
 
 	"AchievementsButton"
 	{
@@ -849,177 +761,6 @@
 		}
 	}
 
-	"ReplayButton"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldname"		"ReplayButton"
-		"xpos"			"20"
-		"ypos"			"0"
-		"zpos"			"12"
-		"wide"			"20"
-		"tall"			"20"
-		"visible"		"1"
-
-		"pin_to_sibling"			"ConsoleButton"
-		"pin_corner_to_sibling" 	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
-
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"20"
-			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"font"			"CustomIcons"
-			"use_proportional_insets" "1"
-			"textAlignment"	"center"
-			"default"		"1"
-			"actionsignallevel" "2"
-			"paintbackground"	"0"
-			"paintborder"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorGreen"
-		}
-	}
-
-	"ReportBugButton"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldname"		"ReportBugButton"
-		"xpos"			"20"
-		"ypos"			"0"
-		"zpos"			"12"
-		"wide"			"20"
-		"tall"			"20"
-		"visible"		"1"
-
-		"pin_to_sibling"			"ReplayButton"
-		"pin_corner_to_sibling" 	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
-
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"20"
-			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"font"			"CustomIcons"
-			"use_proportional_insets" "1"
-			"textAlignment"	"center"
-			"default"		"1"
-			"actionsignallevel" "2"
-			"paintbackground"	"0"
-			"paintborder"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorGreen"
-		}
-	}
-
-	"CoachPlayersButton"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldname"		"CoachPlayersButton"
-		"xpos"			"20"
-		"ypos"			"0"
-		"zpos"			"12"
-		"wide"			"20"
-		"tall"			"20"
-		"visible"		"1"
-
-		"pin_to_sibling"			"ReportBugButton"
-		"pin_corner_to_sibling" 	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
-
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"20"
-			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"font"			"CustomIcons"
-			"use_proportional_insets" "1"
-			"textAlignment"	"center"
-			"default"		"1"
-			"actionsignallevel" "2"
-			"paintbackground"	"0"
-			"paintborder"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorGreen"
-		}
-	}
-
-	"RequestCoachButton"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldname"		"RequestCoachButton"
-		"xpos"			"20"
-		"ypos"			"0"
-		"zpos"			"12"
-		"wide"			"20"
-		"tall"			"20"
-		"visible"		"1"
-
-		"pin_to_sibling"			"CoachPlayersButton"
-		"pin_corner_to_sibling" 	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
-
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"20"
-			"tall"			"20"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"font"			"CustomIcons"
-			"use_proportional_insets" "1"
-			"textAlignment"	"center"
-			"default"		"1"
-			"actionsignallevel" "2"
-			"paintbackground"	"0"
-			"paintborder"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorGreen"
-		}
-	}
 
 	"CallVoteButton"
 	{

@@ -12,31 +12,6 @@
 		"command"		"engine toggleconsole"
 		"tooltip"		"Console"
 	}
-	"ReplayButton"
-	{
-		"label"			"d"
-		"command"		"engine replay_reloadbrowser"
-		"tooltip" 		"#MMenu_Tooltip_Replay"
-	}
-	"ReportBugButton"
-	{
-		"label"			"e"
-		"command"		"engine bug"
-		"tooltip"		"#MMenu_Tooltip_ReportBug"
-	}
-	"CoachPlayersButton"
-	{
-		"label" 		"g"
-		"command" 		"engine cl_coach_toggle"
-		"tooltip" 		"#MMenu_Tooltip_Coach"
-	}
-	"RequestCoachButton"
-	{
-		"label"			"h"
-		"command"		"engine cl_coach_find_coach"
-		"OnlyInGame"	"1"
-		"tooltip"		"#MMenu_RequestCoach"
-	}
 	"CallVoteButton"
 	{
 		"label"			"i"
@@ -69,11 +44,5 @@
 		"label"			"w"
 		"command"		"motd_show"
 		"tooltip"		"#TF_OptionCategory_HUD"
-	}
-	"HomeServerButton"
-	{
-		"label"			"p"
-		"command"		"engine connect 138.197.133.71; password flawhud"
-		"tooltip"		"Home Server"
 	}
 }
