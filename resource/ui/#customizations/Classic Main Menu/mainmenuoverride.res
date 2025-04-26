@@ -50,8 +50,8 @@
 				"border_armed"	""
 				"paintbackground"	"0"
 				"defaultFgColor_override"	"TanLight"
-				"armedFgColor_override"	"ColorCyan"
-				"depressedFgColor_override"	"ColorCyan"
+				"armedFgColor_override"	"ColorGreen"
+				"depressedFgColor_override"	"ColorGreen"
 			}
 		}
 		"SaxxySettings"
@@ -204,10 +204,10 @@
 		"sound_depressed"	""
 		"sound_released"	"UI/wooo_tree.wav"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"	"ColorCyan"
-		"depressedFgColor_override"	"ColorCyan"
+		"armedFgColor_override"	"ColorGreen"
+		"depressedFgColor_override"	"ColorGreen"
 		"image_drawcolor"	"TanLight"
-		"image_armedcolor"	"ColorCyan"
+		"image_armedcolor"	"ColorGreen"
 	}
 	"RankModelPanel"
 	{
@@ -249,7 +249,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"	"ColorCyan"
+		"armedFgColor_override"	"ColorGreen"
 		"depressedFgColor_override"	"TanLight"
 	}
 	"RankTooltipPanel"
@@ -298,7 +298,7 @@
 		"textinsetx"	"15"
 		"textinsety"	"5"
 		"font"	"HudFontSmall"
-		"fgcolor_override"	"ColorCyan"
+		"fgcolor_override"	"ColorGreen"
 		"labelText"	"#TF_MM_NoGC_Rank"
 		"textAlignment"	"north-west"
 		"bgcolor_override"	"Transparent"
@@ -426,7 +426,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"ReloadHUDButton"
@@ -464,7 +464,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"ShowToolsButton"
@@ -502,7 +502,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"MOTD_ShowButtonPanel"
@@ -540,7 +540,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"QuestLogButton"
@@ -579,7 +579,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"HomeServerButton"
@@ -617,7 +617,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"MOTD_Panel"
@@ -993,7 +993,7 @@
 			"pinCorner"	"0"
 			"visible"	"1"
 			"enabled"	"1"
-			"fgcolor_override"	"ColorCyan"
+			"fgcolor_override"	"ColorGreen"
 			"wrap"	"1"
 		}
 		"Notifications_Scroller"
@@ -1183,7 +1183,7 @@
 		"border_default"	"NoBorder"
 		"border_armed"	"NoBorder"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"	"ColorCyan"
+		"armedFgColor_override"	"ColorGreen"
 		"defaultBgColor_override"	"Transparent"
 		"armedBgColor_override"	"25 25 25 148"
 	}
@@ -1208,7 +1208,7 @@
 		"border_default"	"NoBorder"
 		"border_armed"	"NoBorder"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"	"ColorCyan"
+		"armedFgColor_override"	"ColorGreen"
 		"defaultBgColor_override"	"Transparent"
 		"armedBgColor_override"	"25 25 25 148"
 		"pin_to_sibling"	"CharacterSetupButton"
@@ -1237,7 +1237,7 @@
 		"border_default"	"NoBorder"
 		"border_armed"	"NoBorder"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"	"ColorCyan"
+		"armedFgColor_override"	"ColorGreen"
 		"defaultBgColor_override"	"Transparent"
 		"armedBgColor_override"	"25 25 25 148"
 		"pin_to_sibling"	"GeneralStoreButton"
@@ -1266,7 +1266,7 @@
 		"border_default"	"NoBorder"
 		"border_armed"	"NoBorder"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"	"ColorCyan"
+		"armedFgColor_override"	"ColorGreen"
 		"defaultBgColor_override"	"Transparent"
 		"armedBgColor_override"	"25 25 25 148"
 		"pin_to_sibling"	"SteamWorkshopButton"
@@ -1295,7 +1295,7 @@
 		"border_default"	"NoBorder"
 		"border_armed"	"NoBorder"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"	"ColorCyan"
+		"armedFgColor_override"	"ColorGreen"
 		"defaultBgColor_override"	"Transparent"
 		"armedBgColor_override"	"25 25 25 148"
 		"pin_to_sibling"	"SettingButton"
@@ -1324,7 +1324,7 @@
 		"border_default"	"NoBorder"
 		"border_armed"	"NoBorder"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"	"ColorCyan"
+		"armedFgColor_override"	"ColorGreen"
 		"defaultBgColor_override"	"Transparent"
 		"armedBgColor_override"	"25 25 25 148"
 		"pin_to_sibling"	"AdvSettingsButton"
@@ -1363,7 +1363,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"ReplayButton"
@@ -1401,7 +1401,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"ReportBugButton"
@@ -1439,7 +1439,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"TrainingModeButton"
@@ -1477,7 +1477,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"CreateServerButton"
@@ -1515,7 +1515,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"ConsoleButton"
@@ -1553,7 +1553,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"CoachPlayersButton"
@@ -1591,7 +1591,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"RequestCoachButton"
@@ -1629,7 +1629,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"CallVoteButton"
@@ -1667,7 +1667,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"MutePlayersButton"
@@ -1705,7 +1705,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"ReportPlayerButton"
@@ -1743,7 +1743,7 @@
 			"paintborder"	"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"armedFgColor_override"	"ColorCyan"
+			"armedFgColor_override"	"ColorGreen"
 		}
 	}
 	"SettingsButtonSDK"
@@ -1859,7 +1859,7 @@
 		"tall"	"f0"
 		"visible"	"1"
 		"enabled"	"1"
-		"bgcolor_override"	"ColorCyan"
+		"bgcolor_override"	"ColorGreen"
 		"PaintBackgroundType"	"2"
 	}
 	"DashboardDimmer"

@@ -522,7 +522,7 @@
 		"PaintBackgroundType"	"2"
 		"header_font"	"ItemFontNameLarge"
 		"player_font"	"Default"
-		"header_fgcolor"	"ColorCyan"
+		"header_fgcolor"	"ColorGreen"
 		"issue_width"	"180"
 		"issue_font"	"ItemFontNameSmall"
 		"issue_fgcolor"	"TanLight"
@@ -545,7 +545,7 @@
 			"enabled"	"1"
 			"wrap"	"0"
 			"allcaps"	"1"
-			"fgcolor_override"	"ColorCyan"
+			"fgcolor_override"	"ColorGreen"
 		}
 		"VoteSetupList"
 		{
